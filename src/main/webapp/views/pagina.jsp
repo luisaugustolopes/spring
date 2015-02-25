@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width">
 
-<title>Página JSP</title>
+<title>Página JSP Utilizando SPRING - REST - MAVEN - BOOTSTRAP - JQUERY - JDBC - JPA</title>
 
 <link rel="stylesheet" href="resources/bootstrap/css/bootstrap.min.css" />
 
